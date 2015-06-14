@@ -1,3 +1,3 @@
 #Api_Test
-A place for me to test my github api wrapper.
-Everything here is created or done by my wrapper.
+This is a test for my api wrapper.
+Everything in this repo has been made by my wrapper.
